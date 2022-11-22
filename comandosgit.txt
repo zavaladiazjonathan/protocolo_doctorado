@@ -1,0 +1,8 @@
+ls
+cd ..
+cd PortafolioGit/protocolo_doctorado
+git status
+git add
+git commit -m "Comandos basicos Git"
+git push -u origin main
+git fetch origin
