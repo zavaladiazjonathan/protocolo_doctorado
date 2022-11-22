@@ -1,6 +1,7 @@
 ls
 cd ..
 cd PortafolioGit/protocolo_doctorado
+git branch -m main
 git status
 git add
 git commit -m "Comandos basicos Git"
